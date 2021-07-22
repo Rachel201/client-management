@@ -1,0 +1,88 @@
+// html{
+//     max-width:1920px
+//     ;
+// }
+// html{
+    
+//     min-height: 1800px;
+    
+//     // width: 100vw;
+//     // height: 100vh;
+ 
+// }
+// .grid-container{
+//     display: grid;
+//     // 
+//     grid-template-areas: 
+//       "header header  header  header  header"
+     
+//       " side main main main main "
+//        "side main main main main " ;
+  
+
+  
+//     height: 100vh;
+//     overflow: auto;
+//     margin-top: 90px;
+      
+
+    
+// }
+.grid-container{
+    display: grid;
+    margin-top: 0px;
+    // grid-template-columns: 1fr 4fr ;
+    grid-template-areas: 
+      "header header  header  header  header" 
+      " side   main   main    main    main "
+       "side    main  main    main    main " 
+       " side   main   main   main    main "
+       "side   main    main   main    main " ;
+     
+    overflow: auto;
+    min-height: 100%;
+
+   
+}
+@media only screen and (min-width: 6px){
+    .grid-container{
+        margin-top: 0px;
+        overflow: auto;
+        min-height: 100%;
+        // min-height: 1800px;
+        grid-template-columns: 1fr 4fr ;
+        grid-template-areas:
+        "header header  header  header  header"
+      " side   main   main    main    main "
+       "side    main  main    main    main " 
+       " side   main   main   main    main "
+       "side   main    main   main    main " ;
+// }  // " side subHeader subHeader subHeader subHeader "
+
+    //     "header header  header  header  header"
+    //   " side main main main main "
+    //    "side main main main main " ;
+      }
+} 
+// .row {  
+//     display: flex;
+//     flex-wrap: wrap;
+//   }{
+//     display: grid;
+//     fle
+//     width: 1045px;
+//     height: 1996px;
+//     top: 194px;
+   
+//     background: #FFFFFF;
+//     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+//     border-radius: 4px;
+// }
+@font-face {
+    font-family: 'Rajdhani';
+    src: local('Rajdhani'), url() format('truetype');
+  }
+  title{
+      font-family: 'font';
+  }
+  

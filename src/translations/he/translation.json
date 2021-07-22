@@ -1,0 +1,110 @@
+
+  {
+    "welcome": "",
+     "login.sigin":"להתחבר",
+     "login.business":"מזהה עסק",
+     "login.userName":"שם משתמש",
+     "login.password":"סיסמה",
+    "siderbar.customerSearch":"איתור לקוח" ,
+     "siderBar.customerDetails":"פרטי לקוח",
+     "siderbar.contactInformation":"פרטי התקשרות",
+     "siderbar.representativesOrInvolvedParties":"נציגים/מעורבים",
+     "siderbar.obligo":"אובליגו",
+     "siderbar.security":"בטחון",
+     "siderbar.priceList":"מחירון",
+     "siderbar.bankAccounts":"חשבונות בנק" ,
+     "siderbar.loans":"הלוואות",
+     "siderbar.documents":"מסמכים",
+     "siderbar.moneyLaundering":"הלבנת הון",
+     "siderbar.concentrationOfActions":"ריכוז פעולות",
+     "siderbar.logChanges":"לוג שינוים",
+     "siderbar.homePage":"דף הבית",
+     "createCustomer":"צור לקוח",
+     "customerStatus":"סטטוס לקוח:",
+     "customerLock":"נעילת לקוח",
+     "firstName":"שם פרטי:",
+     "lastName":"שם משפחה:",
+     "male":"זכר",
+     "female":"נקבה",
+     "gander":"מין",
+      "other":"אחר",
+      "admin":"מנהל",
+      "user":"משתמש",
+      "note":"הערה",
+      "editing":"לערוך",
+      "deletion":"מחיקה",
+      "save":"שמירה",
+      "dateOfBirth":"תאריך לידה:",
+      "identityNumber":"מספר זהות:",
+      "nameIDEmployee":"שם עובד מזהה:",
+      "middleName":"שם אמצעי:",
+      "customerNumber":":לקוח מספר:",
+      "customerDetails":"פרטי לקוח",
+      "personalDetails":"פרטים אישיים",
+      "othercustomerCondition":"מעמד לקוח אחר:",
+      "customerCondition":"מעמד לקוח:",
+      "customerType":"סוג לקוח:",
+      "customers":"לקוחות",
+      "viewNoteWhenPerformingAction":"הצגת הערה בעת ביצוע פעולה",
+      "areaOfPracticeOrIndustry":"תחום עסוק/ענף כלכלי:",
+      "creditGroup":"קבוצת אשראי:",
+      "agent":"סוכן:",
+      "identityDetails":"פרטי זהוי:",
+      "typeIdentityNumber":"סוג מספר זהות:",
+      "typeIdentityNumberOther":"סוג מספר זהות אחר:",
+      "countryIdentityNumber":"מדינת מספר זהות:",
+      "contactInformation":"פרטי התקשורת:",
+      "address":"כתובת מגורים",
+       "phone":"טלפון:",
+       "houseNumber":"מספר בית",
+       "city":"עיר",
+       "country":"מדינה",
+       "countryPhone":"טלפון מדינה",
+       "email":"דואר אלקטרוני:",
+       "emailAddress":"כתובת דוא'ל:",
+      "search":"חיפוש",
+      "searchCustomer":"איתור לקוח",
+      "details":"פרטים",
+      "customerSearch":"איתור לקוח",
+        "addresses":"כתובות",
+        "phones":"טלפונים",
+        "addEmail":"הוסף מייל",
+        "addPhone":"הוסף טלפון",
+        "addAddress":"הוסף כתובת",
+        "logout":"יציאה",
+        "mailAddress":"כתובת מייל" ,
+        "cancel":"ביטול",
+        "update":"עדכון",
+        "TypePhone":"סוג טלפון",
+        "AreaCodeCountry":"קידומת מדינה",
+        "PhoneDefault":"טלפון ברירת מחדל",
+        "addressDefault":"כתובת ברירת מחדל",
+        "streetAndNumber":"רחוב ומספר",
+        "postalCode":"מיקוד",
+        "updateAddress":"עדכון כתובת",
+        "updateEmail":"עדכון מייל",
+        "updatePhone":"עדכון טלפון",
+        "moreDetails" :"יותר פרטים",
+        "log":{
+        "yes":"כן",
+        "no":"לא"
+       }
+
+     
+
+      
+
+     }
+ 
+  
+  
+  
+ 
+  
+  
+
+  
+  
+
+ 
+ 

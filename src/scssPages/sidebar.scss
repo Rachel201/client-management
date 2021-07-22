@@ -1,0 +1,57 @@
+.userName{
+    top:70px;
+    height: 120px;
+    max-width:230px;
+    background-color: yellow;
+    font-family: 'Font Awesome 5 Pro';
+}
+.sidebar{
+    
+    max-width: 230px;
+    height: 100%;
+    box-sizing: border-box;
+    grid-area: side;
+    display: flex;
+    justify-content:space-around;
+    background-color:white;
+    // @media (min-width: 700px) {
+    //     overflow: auto;
+    //     flex-direction: column
+    // }
+    
+  
+    
+    
+    
+}
+.side-sub{
+    color: #1A1F71;
+}
+
+
+// display:flex;
+// justify-content:space-around;
+// height: 100vh;
+// width: 230px;
+// background-color:white;
+// // .dd{
+//     margin-left: 0px !important;
+// }
+
+.items{   
+    max-width: 210px;
+    min-height:100% ;
+}
+
+.catgory{
+    background: #1A1F71;
+     margin-top:0px;
+     min-height:100%;
+
+     max-width: 70px;
+
+}
+.warper{
+    flex-direction: column;
+    
+}    

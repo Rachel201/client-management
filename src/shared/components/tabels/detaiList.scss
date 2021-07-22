@@ -1,0 +1,86 @@
+// .ms-DetailsHeader-cell is-actionable root-138  {
+//     background: '#F4F2FF' !important;
+//     border: '8px' !important;
+//     min-width: "100px"!important;
+//     max-width: "200px"!important;
+// }
+
+// .ms-Grid {
+//     max-width: "1050px"!important ;
+// }
+
+//   .ms-FocusZone {
+//     padding: 0;
+//   }
+.continar{
+ 
+  // overflow-x: auto;
+  // overflow-y: auto;
+  margin-top: 0px;
+  padding-inline-end: 400px;
+  padding-bottom: 20px;
+  .ms-Viewport {
+    .ms-DetailsList{
+    .ms-DetailsList-headerWrapper{
+      
+        div[class^='root'], div[class*='root']{
+          color: #1A1F71;
+          // width: 200px !important;
+          background-color:#E1E1E1
+          ;
+          &:hover {
+                   background-color:#E1E1E1 ;
+                 }
+        }
+      }
+    // .ms-DetailsList-contentWrapper{
+    //    div[class^='cell'], div[class*='cell']{
+    //     width: 200px !important;
+    //    }
+    //   .ms-DetailsRow .div[class^='root'], div[class*='root']{
+    //      min-width: 1050px !important;
+    //    }
+    //    div[class^='checkCell'], div[class*='checkCell']{
+    //     max-width:40px
+    //    }
+    //   }
+    }
+          //   .root-197 {
+          //     &:hover {
+          //        background-color:blue;
+          //      }
+          //      width: 200px !important;
+          //      max-width: 200px !important;
+          //      min-width: 100px !important;
+          //    }
+          //    .cell-214 {
+          //     width: 200px !important;
+          //    }
+          //    .root-258{
+          //      min-width: 200px;
+          //      max-width: 1000px;
+          //    }
+          //    .cell-223{
+          //      min-width: 200px !important;
+          //    }
+          //   .root-211{
+          //     min-height: 38px;
+          //     word-break: break-word;
+          //   } @at-root &
+          //   .root[class*='root-']
+          //   {
+          //     &:hover {
+          //       background-color:blue;
+          //     }
+          //   }
+          //   div[class^='root'], div[class*='root']{
+                
+          // }
+            
+  }
+
+}
+// .dialog-buttom{
+//   max-width: 200px;
+
+// }
